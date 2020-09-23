@@ -1,8 +1,8 @@
 # IQOStudentProjectTemplate
 
 Latex template for writing up a student project in the group *Theoretical Optics
-and Photonics* at the Institute of Quantum Optics at Leibniz University
-Hannover.
+and Photonics* at the *Institute of Quantum Optics* at *Leibniz University
+Hannover*.
 
 ## Prerequisites
 
