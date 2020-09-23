@@ -39,7 +39,7 @@ IQOStudentProjectTemplate/
 * `figure01.png`, an exemplary figure
 * `Makefile`, a makefile that you might use if you are familiar with makefiles 
 
-## Availability of the software
+## Availability of the template 
 
 You can obtain a local [clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) of this latex template, 
 e.g. via
