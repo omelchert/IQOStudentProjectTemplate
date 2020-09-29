@@ -46,3 +46,14 @@ e.g. via
 
 ``$ git clone https://github.com/omelchert/IQOStudentProjectTemplate``
 
+## Further information
+
+You can find helpful hints of how to handle different aspects of your project work in the 
+open access articles listed below.
+
+* [Ten Simple Rules for Effective Computational Research](https://doi.org/10.1371/journal.pcbi.1003506)
+* [A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424)
+* [Ten Simple Rules for Better Figures](https://doi.org/10.1371/journal.pcbi.1003833)
+* [Ten Simple Rules for Making Good Oral Presentations](https://doi.org/10.1371/journal.pcbi.0030077)
+* [Ten simple rules for short and swift presentations](https://doi.org/10.1371/journal.pcbi.1005373)
+
