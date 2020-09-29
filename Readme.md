@@ -48,7 +48,7 @@ e.g. via
 
 ## Further information
 
-You can find helpful hints of how to handle different aspects of your project work in the 
+You can find helpful hints on how to handle different aspects of your project work in the 
 open access articles listed below.
 
 * [Ten Simple Rules for Effective Computational Research](https://doi.org/10.1371/journal.pcbi.1003506)
